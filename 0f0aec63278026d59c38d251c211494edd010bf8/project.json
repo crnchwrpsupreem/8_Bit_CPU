@@ -11,7 +11,7 @@
         "top": "boards/a-register-20a2b9/top.png",
         "bottom": "boards/a-register-20a2b9/bottom.png"
       },
-      "model": "boards/a-register-20a2b9/board-view.glb",
+      "model": "boards/a-register-20a2b9/board-83064098f6cd.glb",
       "schematics": [
         {
           "name": "A Register",
@@ -49,7 +49,7 @@
         "top": "boards/b-register-8218ff/top.png",
         "bottom": "boards/b-register-8218ff/bottom.png"
       },
-      "model": "boards/b-register-8218ff/board-view.glb",
+      "model": "boards/b-register-8218ff/board-233df519b34f.glb",
       "schematics": [
         {
           "name": "B Register",
@@ -87,7 +87,7 @@
         "top": "boards/int-register-309692/top.png",
         "bottom": "boards/int-register-309692/bottom.png"
       },
-      "model": "boards/int-register-309692/board-view.glb",
+      "model": "boards/int-register-309692/board-46ffd294d07c.glb",
       "schematics": [
         {
           "name": "Int Register",
@@ -125,7 +125,7 @@
         "top": "boards/prg-counter-03dc6a/top.png",
         "bottom": "boards/prg-counter-03dc6a/bottom.png"
       },
-      "model": "boards/prg-counter-03dc6a/board-view.glb",
+      "model": "boards/prg-counter-03dc6a/board-86246124bec5.glb",
       "schematics": [
         {
           "name": "Prg Counter",
