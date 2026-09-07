@@ -1,0 +1,159 @@
+{
+  "schema": 1,
+  "repository": "crnchwrpsupreem/8_Bit_CPU",
+  "snapshot": "0f0aec63278026d59c38d251c211494edd010bf8",
+  "boards": [
+    {
+      "name": "A Register",
+      "source": "A_Register/A_Register.kicad_pcb",
+      "images": {
+        "board": "boards/a-register-20a2b9/board.png",
+        "top": "boards/a-register-20a2b9/top.png",
+        "bottom": "boards/a-register-20a2b9/bottom.png"
+      },
+      "model": "boards/a-register-20a2b9/board-view.glb",
+      "schematics": [
+        {
+          "name": "A Register",
+          "file": "boards/a-register-20a2b9/schematics/A_Register.svg"
+        }
+      ],
+      "downloads": [
+        {
+          "label": "JLCPCB package",
+          "file": "boards/a-register-20a2b9/manufacturing.zip"
+        },
+        {
+          "label": "Gerbers + drills",
+          "file": "boards/a-register-20a2b9/gerbers.zip"
+        },
+        {
+          "label": "BOM",
+          "file": "boards/a-register-20a2b9/bom.csv"
+        },
+        {
+          "label": "Pick & place",
+          "file": "boards/a-register-20a2b9/positions.csv"
+        },
+        {
+          "label": "Schematic PDF",
+          "file": "boards/a-register-20a2b9/schematic.pdf"
+        }
+      ]
+    },
+    {
+      "name": "B Register",
+      "source": "B_Register/B_Register.kicad_pcb",
+      "images": {
+        "board": "boards/b-register-8218ff/board.png",
+        "top": "boards/b-register-8218ff/top.png",
+        "bottom": "boards/b-register-8218ff/bottom.png"
+      },
+      "model": "boards/b-register-8218ff/board-view.glb",
+      "schematics": [
+        {
+          "name": "B Register",
+          "file": "boards/b-register-8218ff/schematics/B_Register.svg"
+        }
+      ],
+      "downloads": [
+        {
+          "label": "JLCPCB package",
+          "file": "boards/b-register-8218ff/manufacturing.zip"
+        },
+        {
+          "label": "Gerbers + drills",
+          "file": "boards/b-register-8218ff/gerbers.zip"
+        },
+        {
+          "label": "BOM",
+          "file": "boards/b-register-8218ff/bom.csv"
+        },
+        {
+          "label": "Pick & place",
+          "file": "boards/b-register-8218ff/positions.csv"
+        },
+        {
+          "label": "Schematic PDF",
+          "file": "boards/b-register-8218ff/schematic.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Int Register",
+      "source": "Inst_Register/Int_Register/Int_Register.kicad_pcb",
+      "images": {
+        "board": "boards/int-register-309692/board.png",
+        "top": "boards/int-register-309692/top.png",
+        "bottom": "boards/int-register-309692/bottom.png"
+      },
+      "model": "boards/int-register-309692/board-view.glb",
+      "schematics": [
+        {
+          "name": "Int Register",
+          "file": "boards/int-register-309692/schematics/Int_Register.svg"
+        }
+      ],
+      "downloads": [
+        {
+          "label": "JLCPCB package",
+          "file": "boards/int-register-309692/manufacturing.zip"
+        },
+        {
+          "label": "Gerbers + drills",
+          "file": "boards/int-register-309692/gerbers.zip"
+        },
+        {
+          "label": "BOM",
+          "file": "boards/int-register-309692/bom.csv"
+        },
+        {
+          "label": "Pick & place",
+          "file": "boards/int-register-309692/positions.csv"
+        },
+        {
+          "label": "Schematic PDF",
+          "file": "boards/int-register-309692/schematic.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Prg Counter",
+      "source": "Prg_Counter/Prg_Counter.kicad_pcb",
+      "images": {
+        "board": "boards/prg-counter-03dc6a/board.png",
+        "top": "boards/prg-counter-03dc6a/top.png",
+        "bottom": "boards/prg-counter-03dc6a/bottom.png"
+      },
+      "model": "boards/prg-counter-03dc6a/board-view.glb",
+      "schematics": [
+        {
+          "name": "Prg Counter",
+          "file": "boards/prg-counter-03dc6a/schematics/Prg_Counter.svg"
+        }
+      ],
+      "downloads": [
+        {
+          "label": "JLCPCB package",
+          "file": "boards/prg-counter-03dc6a/manufacturing.zip"
+        },
+        {
+          "label": "Gerbers + drills",
+          "file": "boards/prg-counter-03dc6a/gerbers.zip"
+        },
+        {
+          "label": "BOM",
+          "file": "boards/prg-counter-03dc6a/bom.csv"
+        },
+        {
+          "label": "Pick & place",
+          "file": "boards/prg-counter-03dc6a/positions.csv"
+        },
+        {
+          "label": "Schematic PDF",
+          "file": "boards/prg-counter-03dc6a/schematic.pdf"
+        }
+      ]
+    }
+  ]
+}

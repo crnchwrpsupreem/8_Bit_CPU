@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,C_Disc_D4.3mm_W1.9mm_P5.00mm,1,C_0.1uF,
+"D1, D2, D3, D4",LED_D5.0mm,4,LED_GREEN,
+J1,8_Bit_CPU_Bus_PinSocket_Bottom_Side,1,Conn_02x30_8-Bit_CPU,
+"R1, R2, R3, R4",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,4,R_220,
+U1,DIP-16_W7.62mm,1,74LS161,
+U2,DIP-20_W7.62mm,1,74LS245,
